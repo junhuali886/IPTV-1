@@ -210,7 +210,7 @@ https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 https://live.v1.mk/api/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="BesTV",BesTV超级体育
 https://live.v1.mk/api/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="BesTV",电竞天堂
+#EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="BesTV",BesTV电竞天堂
 https://live.v1.mk/api/bestv.php?id=djtt8m/8000000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="BesTV",健康养生
 https://live.v1.mk/api/bestv.php?id=jkys8m/8000000
